@@ -1,9 +1,9 @@
-# 마비노기 모바일 숙제 앱 (MabiHomework)
+# 마비노기 모바일 숙제 앱 (MobiHomework)
 
 PC 버전 마비노기 모바일의 **AI 커넥터**로 캐릭터 정보를 읽어서, 캐릭터별 매일·주간·이벤트 숙제를 자동으로 판정하고 관리해 주는 Windows 트레이 앱이에요.
 
 ## 받기
-[Releases](../../releases/latest)에서 `MabiHomework-v버전.zip`을 받아 원하는 폴더에 풀고 `MabiHomework.exe`를 실행하세요.
+[Releases](../../releases/latest)에서 `MobiHomework-v버전.zip`을 받아 원하는 폴더에 풀고 `MobiHomework.exe`를 실행하세요.
 
 ## 준비
 - PC 버전 마비노기 모바일 → **[설정 > 게임] 'Mabinogi Mobile AI 커넥터'** 켜기
